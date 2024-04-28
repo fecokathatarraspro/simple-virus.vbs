@@ -1,0 +1,2 @@
+# simple-virus.vbs
+aenes
